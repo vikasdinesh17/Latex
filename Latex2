@@ -1,0 +1,19 @@
+\documentclass[a3paper, 12pt]{article}
+
+\usepackage[top=20mm, bottom=20mm, left=20mm, right=20mm]{geometry}
+
+\title{Introduction to LaTeX}
+\author{Firua Karmali}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+LaTeX is a document preparation system for typesetting documents. It is widely used for creating various types of documents, including research papers, reports, and presentations. A LaTeX file (.tex) is created using any text editor such as Vim, Emacs, or Gedit. Additionally, there are many LaTeX Integrated Development Environments (IDEs) available, such as Kile and TexStudio.
+\end{abstract}
+
+% Add more content here
+
+\end{document}
